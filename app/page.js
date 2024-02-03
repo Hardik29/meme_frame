@@ -21,7 +21,7 @@ export const metadata = {
   openGraph: { 
     title: 'Meme Frame',
     description: 'Meme frame',
-    images: ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpS6SjoPnTbLb-OW7s4AV8EcwQEoDILQIeDQ&usqp=CAU'],
+    images: ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshocBQggTnHIM40eyiP8EhAPhw8nQkYG9uQ&usqp=CAU'],
   },
   other: {
     ...frameMetadata,

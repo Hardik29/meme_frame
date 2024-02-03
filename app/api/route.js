@@ -4,7 +4,7 @@ async function getResponse(req) {
   console.log('API frame route called');
   return new NextResponse(`  <!DOCTYPE html><html><head> 
   <meta property="fc:frame" content="vNext" /> 
-  <meta property="fc:frame:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpS6SjoPnTbLb-OW7s4AV8EcwQEoDILQIeDQ&usqp=CAU" /> 
+  <meta property="fc:frame:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshocBQggTnHIM40eyiP8EhAPhw8nQkYG9uQ&usqp=CAU" /> 
   </head></html> `);
 
 }
