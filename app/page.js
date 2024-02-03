@@ -8,10 +8,7 @@ const frameMetadata = getFrameMetadata({
     },
 
   ],
-
   image: 'https://res.cloudinary.com/practicaldev/image/fetch/s--hhyrvv9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eefd4ew38ryyrfk6m5nk.png',
-
-
   post_url: 'https://meme-frame-six.vercel.app/api',
 });
 
@@ -21,7 +18,7 @@ export const metadata = {
   openGraph: { 
     title: 'Meme Frame',
     description: 'Meme frame',
-    images: ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshocBQggTnHIM40eyiP8EhAPhw8nQkYG9uQ&usqp=CAU'],
+    images: ['https://lemon-frame.vercel.app/img-2.png'],
   },
   other: {
     ...frameMetadata,
